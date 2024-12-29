@@ -1,0 +1,15 @@
+asgiref
+crispy-bootstrap5
+Django
+django-crispy-forms
+MouseInfo
+pillow
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+pyperclip
+PyRect
+PyScreeze
+pytweening
+sqlparse
+tzdata

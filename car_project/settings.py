@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-w-1q0b4&mpzji#d5y(%!0@$w&e@w4yj*0*oq!1e%_tuq!gzr5@
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
+CSRF_TRUSTED_ORIGINS=['https://dbms-project-cm3x.onrender.com']
 
 # Application definition
 
